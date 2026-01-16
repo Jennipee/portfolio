@@ -1,3 +1,3 @@
 # portfolio
 
-<a href="ENG%20pakula_2026_cv.pdf" target="_blank" rel="noopener">Jenni / CV (PDF)</a>
+<a href="pakula_2026_cv_en.pdf" target="_blank" rel="noopener">Jenni / CV (PDF)</a>
